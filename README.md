@@ -6,10 +6,15 @@ Download the latest version of Thoth
 
 Windows 10:
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.14.79/ThothInstallerSAKK_Win10.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.3/ThothSAKK_Win10_0_0_15_3.zip)
 
 Windows 7: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.14.79/ThothInstallerSAKK_Win7.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.3/ThothSAKK_Win7_0_0_15_3.zip)
+
+MacOS 10.12 or higher: 
+
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.3/ThothSAKK_Mac_0_0_15_3.zip)
+
 
 Older versions can be found [here](https://github.com/IDSC-io/SAKK/releases).
