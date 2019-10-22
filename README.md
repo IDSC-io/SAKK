@@ -14,7 +14,7 @@ Windows 7 - 64bits:
 
 Windows 7 - 32bits: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.13/ThothSAKK_Win7_32bits_0_0_15_13.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.15/ThothSAKK_Win7_32bits_0_0_15_15.zip)
 
 
 MacOS 10.12 or higher: 
