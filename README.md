@@ -6,20 +6,20 @@ Download the latest version of Thoth
 
 Windows 10 - 64bits:
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.19/ThothSAKK_Win10_0_0_15_19.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.20/ThothSAKK_Win10_0_0_15_20.zip)
 
 Windows 7 - 64bits: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.16/ThothSAKK_Win7_0_0_15_16.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.20/ThothSAKK_Win7_0_0_15_20.zip)
 
 Windows 7 - 32bits: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.19/ThothSAKK_Win7_32bits_0_0_15_19.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.20/ThothSAKK_Win7_32bits_0_0_15_20.zip)
 
 
 MacOS 10.12 or higher: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.15/ThothSAKK_Mac_0_0_15_15.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.20/ThothSAKK_Mac_0_0_15_20.zip)
 
 
 Older versions can be found [here](https://github.com/IDSC-io/SAKK/releases).
