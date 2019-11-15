@@ -19,7 +19,7 @@ Windows 7 - 32bits:
 
 MacOS 10.12 or higher: 
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.20/ThothSAKK_Mac_0_0_15_20.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.22/ThothSAKK_Mac_0_0_15_22.zip)
 
 
 Older versions can be found [here](https://github.com/IDSC-io/SAKK/releases).
