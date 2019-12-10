@@ -6,7 +6,7 @@ Download the latest version of Thoth
 
 Windows 10 - 64bits:
 
-[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.33/ThothSAKK_Win10_0_0_15_33.zip)
+[![download](https://github.com/IDSC-io/SAKK/blob/master/assets/github_download.png)](https://github.com/IDSC-io/sakk/releases/download/v0.0.15.35/ThothSAKK_Win10_0_0_15_35.zip)
 
 Windows 7 - 64bits: 
 
